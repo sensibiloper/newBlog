@@ -33,7 +33,7 @@ const webpackCommon = {
   },
   output: {
     filename: 'app.js',
-    path: path.join(__dirname, './public/admin'),
+    path: path.join(__dirname, './public/blog'),
     publicPath: '/public/'
   },
   plugins: [
