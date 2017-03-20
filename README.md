@@ -1,3 +1,3 @@
-# this is new blog project
-## server : node, express
-## front : backbone.js
+# New blog project
+## server : express, mysql
+## front : backbone, marionette

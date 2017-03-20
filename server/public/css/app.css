@@ -10,16 +10,19 @@
 
 h1 {
   margin-bottom: 0.5em;
-  font-size: 5em;
+  font-size: 10em;
+  background-image: url(http://marionettejs.com/images/marionette.svg);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 a {
-  color: #006a86;
+  color: #b31e00;
   text-decoration: none;
   border-bottom: 1px solid rgba(0, 0, 0, 0);
 }
 
 a:hover {
-  color: #006a86;
-  border-bottom: 1px solid #006a86;
+  color: #3C6991;
+  border-bottom: 1px solid #3C6991;
 }
